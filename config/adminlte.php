@@ -324,12 +324,12 @@ return [
         [
             'text' => 'Jabatan',
             'route' => 'jabatan.index',
-            'icon' => 'fas fa-fw fa-user',
+            'icon' => 'fas fa-fw fa-star',
         ],
         [
             'text' => 'Lokasi',
             'route' => 'lokasi.index',
-            'icon' => 'fas fa-fw fa-user',
+            'icon' => 'fas fa-fw fa-map',
         ],
         ['header' => 'account_settings'],
         [
